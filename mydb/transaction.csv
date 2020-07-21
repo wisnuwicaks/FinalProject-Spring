@@ -1,0 +1,7 @@
+userId,totalPrice,status,buyDate,endTrxDate,id
+6,21650000,success,,,1
+6,86000000,success,,,2
+1,36050000,success,,,3
+1,16000000,success,,,4
+8,16600000,pending,,,5
+2,21100000,pending,,,6

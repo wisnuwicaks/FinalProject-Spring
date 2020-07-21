@@ -1,0 +1,9 @@
+username,password,email,role,fullName,id
+denver,denver,denver@gmail.com,user,Denver,1
+sergio,sergio,sergio@gmail.com,user,Sergio,2
+nairobi,nairobi,nairobi@gmail.com,user,Nairobi,3
+admin,admin,professor@gmail.com,admin,Professor,4
+moskow,moskow,moskow@gmail.com,user,Moskow,5
+berlin,berlin,berlin@gmail.com,user,Berlin,6
+tokyo,tokyo,tokyo@gmail.com,user,Tokyo,7
+arturo,arturo,arturo@gmail.com,user,Arturo,8
